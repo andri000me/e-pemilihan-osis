@@ -6,6 +6,7 @@ total suara pemilihan ketos dan waketos.
 - Menggunakan Framework Boostrap 3
 - Menggunakan Alertify dan Sweetalert
 - Security Login, Pemilihan dll
+- Live Data Perhitungan (QuickCount) Menggunakan Chart Google
 
 # Cara Install
 
