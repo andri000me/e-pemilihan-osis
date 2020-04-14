@@ -1,4 +1,10 @@
 # e-pemilihan-osis
+
+![alt text](https://files.itszami.my.id/files/5e9509e2306b7.png)
+
+![alt text](https://files.itszami.my.id/files/5e950a316321e.png)
+
+
 <b>e-pemilihan-osis</b> Adalah untuk memilih ketos dan waketos secara online, dibuatnya aplikasi ini untuk memudahkan ketika menghitung
 total suara pemilihan ketos dan waketos.
 
